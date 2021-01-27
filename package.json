@@ -2,7 +2,7 @@
   "name": "country-state-city",
   "version": "2.0.0",
   "description": "Library for fetching Country, its States and Cities",
-  "main": "dist/index.js",
+  "main": "dist/index.ts",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
